@@ -1,2 +1,2 @@
 # Boilerplate
-Laravel bowlerplate
+Laravel boilerplate
